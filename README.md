@@ -37,9 +37,7 @@ State – Abstract class for different kinds of states or behavior of Entities.
 
 ### Class degerm
 
-
-
-
+![AIPacman](https://user-images.githubusercontent.com/76840396/208319598-501fe8ab-6744-4e8e-aac6-9703c8d2593f.jpg)
 
 ### FSM explanation
 
